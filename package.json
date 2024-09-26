@@ -25,7 +25,7 @@
     "@vitejs/plugin-vue": "^4.0.0",
     "@vueuse/core": "^9.6.0",
     "compare-versions": "^5.0.1",
-    "electron": "20",
+    "electron": "32",
     "electron-builder": "^23.6.0",
     "electron-request": "1.8.1",
     "js-yaml": "^4.1.0",
@@ -35,12 +35,12 @@
     "sass": "^1.56.2",
     "typescript": "^4.9.4",
     "unplugin-vue-components": "^0.22.12",
-    "vite": "3.2.5",
+    "vite": "3.2.11",
     "vite-plugin-resolve": "^2.3.0",
     "vite-svg-loader": "^3.6.0",
     "vue": "^3.2.45",
     "vue-router": "^4.1.6",
-    "xml2js": "^0.4.23"
+    "xml2js": "^0.6.2"
   },
   "env": {
     "PORT": 3355
